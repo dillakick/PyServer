@@ -1,2 +1,3 @@
 # PyServer
-Amateur webserver made with Python
+Amateur webserver/DNS server made with Python
+
