@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-	    <div class="navbar"><img src="logo.png">PyServer &bull; A Python webserver! &bull; <a href="https://github.com/nxm3/PyServer">GitHub Repository</a></div>
+	    <div class="navbar">PyServer &bull; A Python webserver! &bull; <a href="https://github.com/nxm3/PyServer">GitHub Repository</a></div>
 		
         <h1>PyServer 1.2</h1>
         <p>If you're reading this, your site is working!</p>
